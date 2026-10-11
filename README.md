@@ -13,7 +13,7 @@ mais gráfico de **faturamento × meta** e **funil comercial**. Arquivo **único
 - Gráfico **faturamento × meta** (6 meses) e **funil comercial** com conversão por etapa.
 - **Sem dependências externas** (só CSS/JS puro) — abre direto no navegador.
 
-Parte do portfólio de **Jean Felipe Carneiro** — Analista de Dados & BI · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
+Parte do portfólio de **Jean Felipe Carneiro** — Analista de Dados · Analytics Engineering · Fundação dos Dados · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
 
 <details>
 <summary>🇬🇧 <b>English</b></summary>
@@ -33,5 +33,5 @@ Consulting, Events, Education), each with a **score ring** and KPIs vs. target, 
 - **Revenue × target** chart (6 months) and a **sales funnel** with stage conversion.
 - **No external dependencies** (pure CSS/JS) — opens straight in the browser.
 
-Part of the portfolio of **Jean Felipe Carneiro** — Data Analyst & BI · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
+Part of the portfolio of **Jean Felipe Carneiro** — Data Analyst · Analytics Engineering · [jeanfelipecr-ds.github.io](https://jeanfelipecr-ds.github.io)
 </details>
